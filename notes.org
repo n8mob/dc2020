@@ -1,0 +1,9 @@
+Times are probably Pacific
+
+* 10:00 Welcome to DEF CON SAFE MODE
+this is all-hands-on-deck. We can't do anything else. So we will not do this and an in-person CON at the same time.
+
+* 12:30 Detecting 4G Base Stations in Real Time
+4G handsets authenticate the base station
+
+
